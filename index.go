@@ -6,6 +6,7 @@
 package godoc
 
 // GetUserName return the userName
+// BUG(rsc): The rule Title uses
 func GetUserName() string {
 
 	return "godocDemo"
